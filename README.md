@@ -1,3 +1,6 @@
+![CI CD workflow](https://github.com/rafaabc/data-validation/actions/workflows/ci-cd.yml/badge.svg)
+![CodeQL workflow](https://github.com/rafaabc/data-validation/actions/workflows/github-code-scanning/codeql/badge.svg)
+
 Framework to help me as a QA Engineer to check the data quality of a dataset.
 
 To practice this I used a data-driven approach to run the test class using a csv file with different data
