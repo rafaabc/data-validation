@@ -56,7 +56,7 @@ class TestDataValidationV3(unittest.TestCase):
         email_domains = self.data['Email'].str.split('@').str[1]
         self.assertTrue(email_domains.isin(valid_email_domains).all(), message)
 
-    """ Checks that the classifications adhere to 'Yes' or 'No'. """
+    """Checks that the classifications adhere to 'Yes' or 'No'."""
     @parameterized.expand([
         (['Yes', 'No'], "Invalid values found in 'Subscriber'")
     ])
