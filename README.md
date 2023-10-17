@@ -45,5 +45,11 @@ python -m unittest -v test_data_validation.py
 ### Code Validation
 - Checks that the classifications adhere to 'Yes' or 'No', '0' or '1', etc.
 
+## References
+
+- [Python unittest Library Documentation](https://docs.python.org/3/library/unittest.html): Official documentation for the Python unittest library.
+- [Unit Testing in Python](https://www.dataquest.io/blog/unit-tests-python/): A comprehensive guide to unit testing in Python.
+- [Data Validation - TechTarget](https://www.techtarget.com/searchdatamanagement/definition/data-validation): Information about data validation on TechTarget.
+
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
