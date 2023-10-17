@@ -23,3 +23,6 @@ jobs:
 
       - name: Run Unittest
         run: python -m unittest -v test_data_validation.py
+
+      - name: Run Code Analysis
+        run: sonar-scanner
