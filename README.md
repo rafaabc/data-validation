@@ -1,5 +1,6 @@
 ![CI CD workflow](https://github.com/rafaabc/data-validation/actions/workflows/ci-cd.yml/badge.svg)
 ![CodeQL workflow](https://github.com/rafaabc/data-validation/actions/workflows/github-code-scanning/codeql/badge.svg)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=rafaabc_data-validation&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=rafaabc_data-validation)
 
 Framework to help me as a QA Engineer to check the data quality of a dataset.
 
